@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>
+            New file
+        </title>
+        <style>
+            .new_div p {
+                    color: blue;
+                    font-style: italic;
+                    font-size: larger;
+            }
+        </style>
+    </head>
+    <body>
+        <div= "new_div">
+        <p>Hi My name is Afeefa Shafeen</p>
+    </div>
+    </body>
+</html>
